@@ -9,3 +9,4 @@ Rohitsingh0405/Rohitsingh0405 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 https://aju-quiz.netlify.app
+http://192.168.45.88:5/index.html
