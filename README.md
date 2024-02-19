@@ -11,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 https://aju-quiz.netlify.app
 Quiz
 [http://192.168.45.88:5/index.html](https://unstop.com/p/technical-quiz-conducted-by-school-of-engineering-and-it-arka-jain-university-aju-jamshedpur-905770)https://unstop.com/p/technical-quiz-conducted-by-school-of-engineering-and-it-arka-jain-university-aju-jamshedpur-905770
-Quiz https://tehcnicalquiz.netlify.app/
+Quiz 
+https://thnicalqiz.netlify.app/
