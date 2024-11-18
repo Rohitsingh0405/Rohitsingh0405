@@ -14,4 +14,4 @@ Quiz
 Quiz 
 https://thnicalqiz.netlify.app/
 code buster 
-https://shimmering-valkyrie-c19502.netlify.app
+
