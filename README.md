@@ -14,4 +14,5 @@ Quiz
 Quiz 
 https://thnicalqiz.netlify.app/
 code buster 
+https://cool-starburst-4585c8.netlify.app/
 
